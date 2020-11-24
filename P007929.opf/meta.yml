@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS18538
   title: སྦྱོང་བྱེད་ལས།  བཅོས་སྒྲིག་མ།
-  volume: ''
+  volume:
+    a177a732544345b79f7e92254d545ee8:
+      image_group_id: I8LS18540
+      title: Volume 1 of byong byed las/__bcos sgrig ma/
+      volume_number: 1
+      total_pages: 173
   author: ''
+ebook_metadata:
+  title: སྦྱོང་བྱེད་ལས།  བཅོས་སྒྲིག་མ།
+  author: ''
+  sku: P007929
+  cover: cover.jpg
+  layers:
+  - pagination
